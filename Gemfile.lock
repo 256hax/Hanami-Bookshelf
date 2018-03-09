@@ -91,7 +91,7 @@ GEM
     hanami-validations (1.1.0)
       dry-validation (~> 0.11)
       hanami-utils (~> 1.1)
-    hanami-view (1.1.0)
+    hanami-view (1.1.1)
       hanami-utils (~> 1.1)
       tilt (~> 2.0, >= 2.0.1)
     http_router (0.11.2)
@@ -152,7 +152,6 @@ DEPENDENCIES
   dotenv (~> 2.0)
   hanami (~> 1.1)
   hanami-model (~> 1.1)
-  hanami-view (= 1.1.0)
   minitest
   rake
   shotgun
