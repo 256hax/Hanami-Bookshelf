@@ -12,6 +12,6 @@ module Books
 
     def call
       @list = @repository.all
-		end
+    end
   end
 end
