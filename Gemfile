@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'hanami',       '~> 1.1'
+gem 'hanami',       '1.1.0'
 gem 'hanami-model', '~> 1.1'
+#gem 'hanami-view',       '1.1.0'
 
 gem 'sqlite3'
 

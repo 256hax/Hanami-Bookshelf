@@ -5,7 +5,8 @@ module Web::Controllers::Books
     expose :books
 
     def call(params)
-      @books = BookRepository.new.all
+      #@books = BookRepository.new.all
+			@books = Books::IndexBooks.new.call # call interactor
     end
   end
 end

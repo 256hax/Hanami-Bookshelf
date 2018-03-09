@@ -46,7 +46,7 @@ GEM
       dry-equalizer (~> 0.2)
       dry-logic (~> 0.4, >= 0.4.0)
       dry-types (~> 0.11.0)
-    hanami (1.1.1)
+    hanami (1.1.0)
       bundler
       concurrent-ruby (~> 1.0)
       hanami-assets (~> 1.1)
@@ -110,7 +110,7 @@ GEM
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
     public_suffix (2.0.5)
-    rack (2.0.1)
+    rack (2.0.4)
     rack-test (0.6.3)
       rack (>= 1.0)
     rake (12.0.0)
@@ -153,7 +153,7 @@ PLATFORMS
 DEPENDENCIES
   capybara
   dotenv (~> 2.0)
-  hanami (~> 1.1)
+  hanami (= 1.1.0)
   hanami-model (~> 1.1)
   minitest
   rake
