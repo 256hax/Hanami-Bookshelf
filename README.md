@@ -1,3 +1,6 @@
+This is my sample Hanami Bookshelf.
+Original source code: [hanami/bookshelf](https://github.com/hanami/bookshelf)
+
 # Hanami Bookshelf (example application)
 
 This repository is the result of going through Hanami's
